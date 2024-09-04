@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sohamsingh/Library/CloudStorage/OneDrive-ManipalAcademyofHigherEducation/Productivity/Manipal/Academics/2nd Year/3rd Sem/DS/Lab/Lab5/output/L2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _initialize, symObjAddr: 0x0, symBinAddr: 0x1000039C4, symSize: 0x1C }
+  - { offsetInCU: 0x48, offset: 0x48, size: 0x8, addend: 0x0, symName: _initialize, symObjAddr: 0x0, symBinAddr: 0x1000039C4, symSize: 0x1C }
+  - { offsetInCU: 0x6C, offset: 0x6C, size: 0x8, addend: 0x0, symName: _isEmpty, symObjAddr: 0x1C, symBinAddr: 0x1000039E0, symSize: 0x24 }
+  - { offsetInCU: 0x94, offset: 0x94, size: 0x8, addend: 0x0, symName: _isFull, symObjAddr: 0x40, symBinAddr: 0x100003A04, symSize: 0x24 }
+  - { offsetInCU: 0xBC, offset: 0xBC, size: 0x8, addend: 0x0, symName: _push, symObjAddr: 0x64, symBinAddr: 0x100003A28, symSize: 0x68 }
+  - { offsetInCU: 0xEE, offset: 0xEE, size: 0x8, addend: 0x0, symName: _pop, symObjAddr: 0xCC, symBinAddr: 0x100003A90, symSize: 0x78 }
+  - { offsetInCU: 0x124, offset: 0x124, size: 0x8, addend: 0x0, symName: _evaluatePostfix, symObjAddr: 0x144, symBinAddr: 0x100003B08, symSize: 0x2E4 }
+  - { offsetInCU: 0x1B4, offset: 0x1B4, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x440, symBinAddr: 0x100003E04, symSize: 0xC4 }
+...
