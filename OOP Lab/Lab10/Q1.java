@@ -13,6 +13,5 @@ public class Q1 {
         catch(NumberFormatException A){
             System.out.println("Invalid input\n"+A);
         }
-        System.out.println("After try catchh");
     }
 }
