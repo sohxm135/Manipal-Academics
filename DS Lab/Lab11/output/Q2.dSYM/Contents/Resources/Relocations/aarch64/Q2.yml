@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sohamsingh/Library/CloudStorage/OneDrive-ManipalAcademyofHigherEducation/Productivity/Manipal/Academics/2nd Year/3rd Sem/DS/DS Lab/Lab11/output/Q2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _createNode, symObjAddr: 0x0, symBinAddr: 0x100003BAC, symSize: 0x48 }
+  - { offsetInCU: 0x8A, offset: 0x8A, size: 0x8, addend: 0x0, symName: _createNode, symObjAddr: 0x0, symBinAddr: 0x100003BAC, symSize: 0x48 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: _insert, symObjAddr: 0x48, symBinAddr: 0x100003BF4, symSize: 0xC8 }
+  - { offsetInCU: 0xF6, offset: 0xF6, size: 0x8, addend: 0x0, symName: _findMin, symObjAddr: 0x110, symBinAddr: 0x100003CBC, symSize: 0x40 }
+  - { offsetInCU: 0x11E, offset: 0x11E, size: 0x8, addend: 0x0, symName: _deleteNode, symObjAddr: 0x150, symBinAddr: 0x100003CFC, symSize: 0x178 }
+  - { offsetInCU: 0x1A8, offset: 0x1A8, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2C8, symBinAddr: 0x100003E74, symSize: 0xAC }
+...

@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sohamsingh/Library/CloudStorage/OneDrive-ManipalAcademyofHigherEducation/Productivity/Manipal/Academics/2nd Year/3rd Sem/DS/DS Lab/Lab11/output/Q1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _createNode, symObjAddr: 0x0, symBinAddr: 0x100003DC8, symSize: 0x48 }
+  - { offsetInCU: 0x8A, offset: 0x8A, size: 0x8, addend: 0x0, symName: _createNode, symObjAddr: 0x0, symBinAddr: 0x100003DC8, symSize: 0x48 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: _insert, symObjAddr: 0x48, symBinAddr: 0x100003E10, symSize: 0xC8 }
+  - { offsetInCU: 0xF6, offset: 0xF6, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x110, symBinAddr: 0x100003ED8, symSize: 0x78 }
+...

@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sohamsingh/Library/CloudStorage/OneDrive-ManipalAcademyofHigherEducation/Productivity/Manipal/Academics/2nd Year/3rd Sem/DS/DS Lab/Lab8/output/Q1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _createNode, symObjAddr: 0x0, symBinAddr: 0x100003220, symSize: 0x48 }
+  - { offsetInCU: 0x7A, offset: 0x7A, size: 0x8, addend: 0x0, symName: _createNode, symObjAddr: 0x0, symBinAddr: 0x100003220, symSize: 0x48 }
+  - { offsetInCU: 0xB0, offset: 0xB0, size: 0x8, addend: 0x0, symName: _insertRear, symObjAddr: 0x48, symBinAddr: 0x100003268, symSize: 0xA8 }
+  - { offsetInCU: 0xFE, offset: 0xFE, size: 0x8, addend: 0x0, symName: _deleteRear, symObjAddr: 0xF0, symBinAddr: 0x100003310, symSize: 0xBC }
+  - { offsetInCU: 0x130, offset: 0x130, size: 0x8, addend: 0x0, symName: _insertAtPosition, symObjAddr: 0x1AC, symBinAddr: 0x1000033CC, symSize: 0x190 }
+  - { offsetInCU: 0x1A8, offset: 0x1A8, size: 0x8, addend: 0x0, symName: _deleteFromPosition, symObjAddr: 0x33C, symBinAddr: 0x10000355C, symSize: 0x1A8 }
+  - { offsetInCU: 0x204, offset: 0x204, size: 0x8, addend: 0x0, symName: _insertAfterElement, symObjAddr: 0x4E4, symBinAddr: 0x100003704, symSize: 0x110 }
+  - { offsetInCU: 0x260, offset: 0x260, size: 0x8, addend: 0x0, symName: _insertBeforeElement, symObjAddr: 0x5F4, symBinAddr: 0x100003814, symSize: 0x120 }
+  - { offsetInCU: 0x2BC, offset: 0x2BC, size: 0x8, addend: 0x0, symName: _traverseList, symObjAddr: 0x714, symBinAddr: 0x100003934, symSize: 0x78 }
+  - { offsetInCU: 0x2EE, offset: 0x2EE, size: 0x8, addend: 0x0, symName: _reverseList, symObjAddr: 0x78C, symBinAddr: 0x1000039AC, symSize: 0x98 }
+  - { offsetInCU: 0x32E, offset: 0x32E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x824, symBinAddr: 0x100003A44, symSize: 0x2E4 }
+...
